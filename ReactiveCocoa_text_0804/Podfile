@@ -1,0 +1,2 @@
+use_frameworks!
+pod 'ReactiveCocoa', '~> 3.0.0-alpha.1'
