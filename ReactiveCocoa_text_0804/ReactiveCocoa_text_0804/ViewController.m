@@ -25,7 +25,8 @@
     textField.backgroundColor = [UIColor greenColor];
     [self.view addSubview:textField];
     
-    
+    // git create master test
+    self.view.backgroundColor = [UIColor redColor];
     
     
     
